@@ -1,0 +1,16 @@
+
+*.csv
+
+
+*.zip
+
+*.txt
+!runtime.txt
+
+pyenv12/
+venv/
+.env/
+
+
+__pycache__/
+*.pyc
