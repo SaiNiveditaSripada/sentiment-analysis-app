@@ -2,5 +2,4 @@ streamlit
 scikit-learn
 numpy
 pandas
-pickle
 tensorflow-cpu==2.16.1
