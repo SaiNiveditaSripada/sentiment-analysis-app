@@ -6,6 +6,7 @@
 
 *.txt
 !runtime.txt
+!requirements.txt
 
 pyenv12/
 venv/
